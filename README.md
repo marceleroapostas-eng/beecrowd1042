@@ -1,8 +1,8 @@
-\# Beecrowd 1042 - Sort Simples
+# Beecrowd 1042 - Sort Simples
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1042 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém três valores inteiros.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta os valores em ordem crescente, seguidos pelos valores na or
 
 
 
-\## Autor
+## Autor
 
 
 
